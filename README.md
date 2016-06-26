@@ -2,6 +2,12 @@
 
 This ansible role installs and configures the New Relic Server Agent (System Monitor Daemon)
 
+
+## This Repo
+
+This repo is a fork from https://github.com/sivel/ansible-newrelic. It's no longer exist on github, we I pushed it again here!
+
+
 ## Requirements
 
 This role requires Ansible 1.4 higher and platforms listed in the metadata file.
